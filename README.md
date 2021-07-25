@@ -1,2 +1,2 @@
 # Mego1596.github.io
-<a href="Mego1596.github.io/ElSalvadorOutline.geojson"> El Salvador </a>
+<a href="/ElSalvadorOutline.geojson"> El Salvador </a>
